@@ -1,6 +1,6 @@
 # SFO Air Passenger Traffic Statistics
 
-**Tools used: SQL, Tableau**
+**Tools used: Excel, SQL, Tableau**
 
 San Francisco International Airport collects self-reported data from airlines on a monthly basis about the total number of passengers carried by their airline. This includes information on what geographic region the passenger was flying to or from, whether the flight was domestic or international, whether the carrier is low-cost, etc. This project analyzes a dataset released in 2023 recording data starting from 2005.
 
